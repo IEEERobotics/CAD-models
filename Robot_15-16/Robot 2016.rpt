@@ -1,0 +1,71 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : dbf37531-51c0-451e-abd7-a231407a5f31
+Receiving System Product I.D.: 
+File Name                    : dbf37531-51c0-451e-abd7-a231407a5f31
+Sending System               : unknown
+Preprocessor Version         : unknown
+File Creation Date           : 20151111.002635
+Model Creation Date          : 
+Units                        : MM
+Model Space Scale            : 1
+Author                       : unknown
+Organization                 : unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                12.9632
+  Maximum distance to origin:                          13.0745
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   14
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+124  Transformation matrix                          106       106
+126  Rational B-spline curve                       8071      8071
+128  Rational B-spline surface                     2862      2862
+141  Boundary                                         5         5
+143  Bounded surface                                  5         5
+186  Manifold Solid B-rep Object                     29        29
+308  Subfigure definition                            45        45
+314  Color definition                                19        19
+406  Property                                        54        54
+408  Singular subfigure instance                    112       112
+502  Vertex list                                     29        29
+504  Edge entity                                     29        29
+508  Loop entity                                   3073      3073
+510  Face entity                                   2857      2857
+514  Shell entity                                    29        29
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       28
+Surface feature(s)                     2
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Tuesday, November 10, 2015 19:29:00
+Finish time: Tuesday, November 10, 2015 19:31:09
+Processing time: 0 days, 00 hours, 02 mins, 09 secs
