@@ -9,7 +9,9 @@ The following are the assembly files within the github.
 	Description: 
 	This assembly should contain all of the assemblies and is the entire model. 
 
-1.1.	Bottom half
+1.1.	bottomHalf.SLDASM
+	Description:
+	This assembly 
 
 1.1.1 	ChassisMod.SLDASM
 	Description:
