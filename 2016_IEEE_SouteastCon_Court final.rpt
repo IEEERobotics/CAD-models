@@ -1,0 +1,69 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 7683d2a7-47fd-42ce-9ab4-1efd02ca8f97
+Receiving System Product I.D.: 
+File Name                    : 7683d2a7-47fd-42ce-9ab4-1efd02ca8f97
+Sending System               : unknown
+Preprocessor Version         : unknown
+File Creation Date           : 20151222.204933
+Model Creation Date          : 
+Units                        : INCH
+Model Space Scale            : 1
+Author                       : unknown
+Organization                 : unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               2
+  Highest number of significant digits:                     14
+  Average number of significant digits:                5.24393
+  Maximum distance to origin:                          42.7119
+  Minimum distance to origin:                          11.8001
+  Effective number of significant digits:              13.7536
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+124  Transformation matrix                           82        82
+126  Rational B-spline curve                       2880      2880
+128  Rational B-spline surface                     1152      1152
+186  Manifold Solid B-rep Object                     36        36
+308  Subfigure definition                            36        36
+314  Color definition                                24        24
+406  Property                                        92        92
+408  Singular subfigure instance                     86        86
+502  Vertex list                                     36        36
+504  Edge entity                                     36        36
+508  Loop entity                                   1243      1243
+510  Face entity                                   1152      1152
+514  Shell entity                                    36        36
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       36
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Tuesday, December 22, 2015 15:51:20
+Finish time: Tuesday, December 22, 2015 15:51:30
+Processing time: 0 days, 00 hours, 00 mins, 10 secs

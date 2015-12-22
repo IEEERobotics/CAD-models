@@ -11,20 +11,28 @@ The following are the assembly files within the github.
 
 1.1.	bottomHalf.SLDASM
 	Description:
-	This assembly 
+	This assembly contains all part files for the lower half of the bot.
 
-1.1.1 	ChassisMod.SLDASM
+1.1.1. 	ChassisMod.SLDASM
 	Description:
 	This assembly is the lower half of the bot. This assembly should contain the 		acrylic base, the wheels and drive motors, motor mounts, batteries, and 		microstacks. This assembly should be able to drive itself and serve as a 		localization learning platform.
 
-1.1.1.	
+1.1.1.1.MotorWheelAssy.SLDASM
 	Description:
+	This assembly contains the motor mount, the wheel, the shaft coupler, and the 	motor used in the drive train as is. 
 
+1.1.2.	stack.SLDASM
+	Description:
+	This assembly contains the entire microstack model and the approximated board 	spacing. It contains the worst case scenario situation in the event that all 		six boards need to be used. 
 
 1.2. 	mounting_assy_rev3.SLDASM
 	Description:
 	This assembly is the upper half robot assembly. The model should contain the 		hopper, the robotic arm, and everything required to complete the competition 		tasks. This assembly should have clear break points for wires, structural 		mounts, etc and it should be clear that this assembly can stand alone for 		testing. 
 
-1.2.1. 	
+1.2.1. 	Robotic Arm.SLDASM
 	Description:
-	
+	This assembly contains the robotic arm as pulled from GrabCAD. It is advised 	not to open this assembly unless a reorientation of the arm is required. 
+
+1.2.2.	holder_sub_rev2.SLDASM
+	Description:
+	This assembly contains the entire upper arm holder used to move the arm 	around the upper robot. 
